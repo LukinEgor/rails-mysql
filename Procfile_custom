@@ -1,1 +1,2 @@
 specific_worker1: bundle exec rake test:work
+specific_$PRIVATE_TIER_NAME: echo $PRIVATE_TIER_NAME
